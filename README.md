@@ -1,3 +1,3 @@
 # CherryCompile
-my first repository
-Author - Thejj
+my first repository.
+Author - Thejj Nayak
