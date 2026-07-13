@@ -1,4 +1,4 @@
-# Interactive Pixel Reveal Canvas
+# CherryCompile ;)
 
 An interactive HTML5 Canvas animation where an image dynamically reveals itself in pixelated blocks as the cursor moves across the screen. The project uses **GSAP** for smooth animations and **Tweakpane** for real-time customization.
 
